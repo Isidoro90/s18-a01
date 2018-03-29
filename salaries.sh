@@ -2,7 +2,7 @@
 # Hint: wc
 
 # 2. How many full-time workers are there in the file?
-# Hint: grep for Salary then use wc
+# Hint: grep for ',F,' then use wc
 
 # 3. How many part-time workers are there in the file?
 
