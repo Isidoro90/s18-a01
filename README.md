@@ -61,10 +61,10 @@ If you have problems with your install please see one of the TAs during office h
 
 When you're all done, commit and push the code:
 ```bash
-git add salaries.sh ANSWERS salaries_historgram.pdf # add the relevant files
-git status                                            # check that all your modified files are listed
-git commit -m "done"                                  # use any commit message you want
-git push                                              # push back to GitHub
+$ git add salaries.sh ANSWERS.txt salaries_histogram.pdf # add the relevant files
+$ git status                                             # check that all your modified files are listed
+$ git commit -m "done"                                   # use any commit message you want
+$ git push                                               # push back to GitHub
 ```
 
 Now go online to your GitHub repository page (again substituting your username), to check that everything is there:
